@@ -3,7 +3,6 @@
 
 - It is a **node.js**, **express.js** based microservice which includes functions to compress the quality of PDF .
 - It uses **MongoDB atlas** for database i.e mongoose package.
-- It uses **MongoDB ** for database i.e mongoose package.
 - It uses node.js and express for creating and managing backend server.
 - It uses **Ghostscript** API to compress the quality of PDFs.
 
