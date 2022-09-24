@@ -1,5 +1,5 @@
 
-# PDF-Compression_Microservice
+# PDF-Compression_microservice
 
 - It is a **node.js**, **express.js** based microservice which includes functions to compress the quality of PDF .
 - It uses **MongoDB atlas** for database i.e mongoose package.
